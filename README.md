@@ -81,9 +81,3 @@ Used for quarterly performance analysis.
 Profit Margin = Profit / Sales
 Discount Amount = Sales × Discount
 
-
-###
-## Author
-
-Raunak Dharewa
-
