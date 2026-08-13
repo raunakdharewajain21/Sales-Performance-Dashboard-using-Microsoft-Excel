@@ -80,3 +80,9 @@ Used for quarterly performance analysis.
 ```text
 Profit Margin = Profit / Sales
 Discount Amount = Sales × Discount
+
+
+
+## Author
+
+Raunak Dharewa
