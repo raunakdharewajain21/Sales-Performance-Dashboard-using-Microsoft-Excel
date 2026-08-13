@@ -1,0 +1,75 @@
+I recommend adding:
+
+```text
+Documentation/Project_Requirements.md
+
+
+# Sales Dashboard — Business Requirements
+
+## 1. Business Objective
+
+Develop an interactive Excel dashboard to monitor sales performance, profitability, regional performance, product performance, salesperson performance and discount impact.
+
+## 2. Users
+
+Primary users:
+
+- Sales Management
+- Business Management
+- Sales Operations
+- Business Analysts
+
+## 3. Key KPIs
+
+- Total Sales
+- Total Profit
+- Profit Margin
+- Total Orders
+- Total Quantity
+- Average Order Value
+- Loss-Making Orders
+
+## 4. Required Analysis
+
+### Sales Performance
+
+- Monthly sales
+- Quarterly sales
+- Regional sales
+- Category sales
+- Product sales
+- Salesperson sales
+
+### Profitability
+
+- Total profit
+- Profit margin
+- Profit by category
+- Profit by region
+- Profit by discount level
+- Loss-making transactions
+
+## 5. Interactive Requirements
+
+Users should be able to filter the dashboard using:
+
+- Region
+- Category
+- Salesperson
+- Quarter
+- Order Date
+
+## 6. Business Insights
+
+The dashboard should identify:
+
+- Top-performing categories
+- Top-performing regions
+- Top-performing products
+- Top-performing salespeople
+- Loss-making transactions
+- Discount-related profitability trends
+
+## 7. Recommendations
+
+The dashboard should provide actionable recommendations based on the identified trends and risks.
